@@ -30,13 +30,6 @@
     color: rgb(219, 103, 61);
     transition: 1s;
 }
-.headphone{
-    color: rgb(219, 103, 61);
-    text-decoration: none !important;
-}
-.headphone:hover{
-    color: rgb(219, 103, 61);
-}
 
 
 .new{
@@ -200,7 +193,7 @@
         align-items: center;
     }
     .shop{
-        height: 20vh;
+        height: 23vh;
         width: 93%;
         border-radius: 5px;
         background-color: rgb(241,241,241);
@@ -209,7 +202,7 @@
     }
     .shoper{
         margin-left: 0px;
-        height: 20vh;
+        height: 23vh;
         width: 93%;
         border-radius: 15px;
     }
@@ -258,10 +251,10 @@
         margin-right: 40px;
     }
     .bolt{
-        margin-left: 140px;
+        margin-left: 120px;
     }
     .contain1{
-        height: 95vh;
+        height: 110vh;
     }
     .box{
         width: 100%;
@@ -275,7 +268,7 @@
         margin-top: 40px;
         display: flex;
         flex-direction: row;
-        margin-right: 125px;
+        margin-right: 95px;
     }
 
 }
