@@ -1,0 +1,281 @@
+.contain{
+    height: 57vh;
+    background-color: rgb(26, 25, 25);
+}
+.nav-link{
+    color: white;
+}
+.headphones{
+    color: rgb(219, 103, 61);
+}
+.nav-link:hover{
+    color: rgb(219, 103, 61);
+    transition: 1s;
+}
+.ml{
+    margin-left: 15px;
+}
+.current{
+    margin-top: 7rem;
+}
+
+.bio{
+    list-style: none;
+}
+.foot{
+    color: white;
+    text-decoration: none !important;
+}
+.foot:hover{
+    color: rgb(219, 103, 61);
+    transition: 1s;
+}
+.headphone{
+    color: rgb(219, 103, 61);
+    text-decoration: none !important;
+}
+.headphone:hover{
+    color: rgb(219, 103, 61);
+}
+
+
+.new{
+    font-family: Manrope, sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    color: rgb(223, 119, 82);
+}
+.mar{
+    font-family: Manrope, sans-serif;
+    font-size: 32px;
+    font-weight: 700;
+    color: black;
+    line-height: 33.6px;
+}
+.audio{
+    font-family: Manrope, sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    color: rgba(0, 0, 0, 0.5);
+    line-height: 25px;
+}
+.see{
+    background-color: rgb(223, 119, 82);
+    font-family: Manrope, sans-serif;
+    font-size: 13px;
+    font-weight: 700;
+    line-height: 26px;
+}
+.but{
+    height: 110vh;
+    align-items: center;
+}
+
+
+.shop{
+    height: 27vh;
+    /* width: 31%; */
+    border-radius: 5px;
+    background-color: rgb(241,241,241);
+    position: relative;
+}
+.shoper{
+    height: 27vh;
+    /* width: 31%; */
+    border-radius: 5px;
+    background-color: rgb(241,241,241);
+    position: relative;
+    margin-left: 35px;  
+}
+.hi{
+    font-family: Manrope, sans-serif;
+    font-size: 13px;
+    color: gray;
+}
+.img{
+    position: absolute;
+    bottom: 85px;
+}
+.line{
+    margin-top: 80px;
+}
+.div{
+    height: 70vh;
+    align-items: center;
+}
+.hi:hover{
+    color: rgb(219, 103, 61);
+}
+
+
+
+.card3{
+    height: 100vh;
+}
+.bring{
+    font-family: Manrope, sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48px;
+}
+.test{
+    color: rgb(216,125,74);
+}
+.audio{
+    font-family: Manrope, sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    color: rgba(0, 0, 0, 0.5);
+    line-height: 26px;
+}
+.coll{
+    margin-top: 170px;
+}
+
+
+
+.contain1{
+    height: 65vh;
+    background-color: rgb(26, 25, 25);
+    margin-top: 150px;
+}
+.aud{
+    font-family: Manrope, sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    color: rgba(255, 255, 255, 0.5);
+    line-height: 26px;
+}
+.box4{
+    margin-top: 130px;
+}
+.bolt{
+    padding-left: 95px;
+    padding-top: 95px;
+    border-top: 5px solid rgb(216,125,74);
+    background-color: rgb(26, 25, 25);
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+    margin-left: 16px;
+}
+.box3 p:hover{
+    color: rgb(219, 103, 61);
+    transition: 1s;
+}
+
+
+
+
+
+
+
+
+@media (max-width:576px) {
+    .contain{
+        height: 40vh;
+    }
+    .ml{
+        margin-left: 0px;
+    }
+
+
+    .but{
+        height: 100vh;
+        align-items: center;
+    }
+    .but div{
+        text-align: center;
+    }
+
+
+
+
+    .containerr{
+        height: 95vh;
+    }
+    .div{
+        margin-top: 90px;
+        height: 85vh;
+        align-items: center;
+    }
+    .shop{
+        height: 20vh;
+        width: 93%;
+        border-radius: 5px;
+        background-color: rgb(241,241,241);
+        position: relative;
+        border-radius: 15px;
+    }
+    .shoper{
+        margin-left: 0px;
+        height: 20vh;
+        width: 93%;
+        border-radius: 15px;
+    }
+    .hi{
+        font-family: Manrope, sans-serif;
+        font-size: 13px;
+        color: gray;
+    }
+    .img{
+        position: absolute;
+        bottom: 90px;
+    }
+    .line{
+        margin-top: 95px;
+    }
+    .hi:hover{
+        color: rgb(219, 103, 61);
+    }
+
+
+
+    .coll{
+        margin-top: 100px;
+        text-align: center;
+    }
+    .collo{
+        margin-top: 30px;
+    }
+    .collo img{
+        border-radius: 15px;
+    }
+
+
+
+    .bro{
+        display: flex;
+        flex-direction: column-reverse;
+    }
+    .bio{
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+    }
+    .bio li{
+        margin-top: 15px;
+        margin-right: 40px;
+    }
+    .bolt{
+        margin-left: 140px;
+    }
+    .contain1{
+        height: 95vh;
+    }
+    .box{
+        width: 100%;
+        text-align: center;
+        margin-top: 100px;
+    }
+    .box2{
+        width: 100%;
+    }
+    .box4{
+        margin-top: 40px;
+        display: flex;
+        flex-direction: row;
+        margin-right: 125px;
+    }
+
+}
